@@ -32,7 +32,7 @@ flaged by Anti-Virus solutions (BATtoEXE and AdvancedBATtoEXE Applications flags
 
 ### Limitations:
 1º **'verpatch.exe'** will not work in **'wine'** under Linux Distros (only under Windows systems).<br />
-2º IF you use **'FileDescription.bat'** in a Legit Apllication, that binary file will be changed.<br />
+2º IF you use **'FileDescriptionchanger.bat'** in a Legit Apllication, that binary file will be changed.<br />
 **{ So its adviced to 'COPY' the File to be transformed to a new location to leave the Legit application intact }**<br />
 3º Sometimes Anti-Virus solluctions will ask us if we want to send the 'temp' file for analyzes (offcourse not)<br />
 **{ So Remmenber to turn off Windows Defender 'automatic sample submission' from sending samples to Microsoft }**
