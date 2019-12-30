@@ -19,7 +19,7 @@ flaged by Anti-Virus solutions (BATtoEXE and AdvancedBATtoEXE Applications flags
 
 **Objective:** Change the Description Of Executable Applications (exe)<br />
 **Description:** This Project let us change Executables (exe) File Description like: 'COPYRIGTHS,FILE DESCRIPTION,VERSION,etc'.<br />
-**Remark:** 'FileDescriptionchanger.bat' script it will use 'verpatch.exe' and 'resource.rc' to acomplish that.
+**Remark:** 'FileDescriptionChanger.bat' script it will use 'verpatch.exe' and 'resource.rc' to acomplish that.
 
 <br /> 
 
