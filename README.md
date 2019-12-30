@@ -8,7 +8,6 @@ flaged by Anti-Virus solutions (BATtoEXE and AdvancedBATtoEXE Applications flags
 
 #### How To:
 - 1º - Drag and Drop your 'script.bat' on top of 'BATtoEXEconverter.bat'.<br />
-- 2º - Them Just Follow the script instructions (User Inputs).<br />
   - **{ The 'transformed.exe' File will be saved in working directory and ready to be used }** ..<br />
 
 <br />
