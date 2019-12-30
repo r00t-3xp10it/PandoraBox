@@ -2,7 +2,8 @@
 
 **Objective:** Transform your batch (bat) script into one binary.exe<br />
 **Description:** This Project allow us to transform one batch script into one binary.exe without beeing<br />
-flaged by Anti-Virus solutions (BATtoEXE and AdvancedBATtoEXE Applications flags AV detection)
+flaged by Anti-Virus solutions (BATtoEXE and AdvancedBATtoEXE Applications flags AV detection)<br />
+**Remark:** I have written 'example_script.bat' to demonstrate 'BATtoEXEconverter.bat' working<br />
 
 <br />
 
