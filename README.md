@@ -4,6 +4,7 @@
 **Description:** This Project allow us to transform one batch script into one binary.exe without beeing<br />
 flaged by Anti-Virus solutions (BATtoEXE and AdvancedBATtoEXE Applications flags AV detection)<br />
 **Remark:** I have written 'example_script.bat' to demonstrate 'BATtoEXEconverter.bat' working<br />
+Original Script https://github.com/npocmaka/batch.scripts/edit/master/hybrids/iexpress/bat2exeIEXP.bat
 
 <br />
 
