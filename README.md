@@ -6,6 +6,7 @@ flaged by Anti-Virus solutions (BATtoEXE and AdvancedBATtoEXE Applications flags
 **Original Script:** https://github.com/npocmaka/batch.scripts/edit/master/hybrids/iexpress/bat2exeIEXP.bat
 ![um](https://user-images.githubusercontent.com/23490060/71759053-72dd3980-2e9f-11ea-8d3e-435def757fc7.png)
 **Remark:** I have written 'example_script.bat' to demonstrate 'BATtoEXEconverter.bat' working<br />
+**Remark:** Turn OFF your Windows Defender from 'sending samples' to $Microsoft (just in case they want to analyze tmp files)<br />
 
 
 <br />
