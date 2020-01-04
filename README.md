@@ -56,7 +56,7 @@ flaged by Anti-Virus solutions (BATtoEXE and AdvancedBATtoEXE Applications flags
 ![oito](https://user-images.githubusercontent.com/23490060/71759074-a5873200-2e9f-11ea-942d-305c5a227066.png)
 ![nove](https://user-images.githubusercontent.com/23490060/71759075-a9b34f80-2e9f-11ea-9896-979129015c1f.png)
 
-**It only misses sign the binary ...**
-https://github.com/r00t-3xp10it/venom/blob/master/obfuscate/CarbonCopy.py
+**It only misses sign the binary ...**<br />
+[url] https://github.com/r00t-3xp10it/venom/blob/master/obfuscate/CarbonCopy.py
 
 ## Suspicious Shell Activity @2019
