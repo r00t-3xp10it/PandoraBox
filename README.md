@@ -59,4 +59,16 @@ flaged by Anti-Virus solutions (BATtoEXE and AdvancedBATtoEXE Applications flags
 **It only misses sign the binary ...**<br />
 [url] https://github.com/r00t-3xp10it/venom/blob/master/obfuscate/CarbonCopy.py
 
+
+<p align="center">
+  <a href="https://github.com/DanielObara/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=DanielObara&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=radical"
+    />
+  </a>
+</p>
+
+
 ## Suspicious Shell Activity @2019
