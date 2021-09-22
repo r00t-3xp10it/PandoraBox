@@ -11,9 +11,13 @@ flaged by Anti-Virus solutions (BATtoEXE and AdvancedBATtoEXE Applications flags
 
 <br />
 
-#### How To:
+### How To:
 - 1º - Drag and Drop your 'script.bat' on top of 'BATtoEXEconverter.bat'.<br />
   - **{ The 'transformed.exe' File will be saved in working directory and ready to be used }** ..<br />
+
+### OR
+
+- .\BATtoEXEconverter.bat input.bat output.exe
 
 <br />
 
