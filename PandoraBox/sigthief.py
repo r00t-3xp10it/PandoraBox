@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # LICENSE: BSD-3
 # Copyright: Josh Pitts @midnite_runr
-# Syntax: .\sigthief.py -i $Env:WINDIR\system32\cmd.exe -t dControl.exe -o Signed-dControl.exe
+# Syntax: python sigthief.py -i $Env:WINDIR\system32\cmd.exe -t dControl.exe -o Signed-dControl.exe
 
 import sys
 import struct
