@@ -1,4 +1,7 @@
+'
+' Encode VBScript files
 ' .\VbsEncoder.vbs filetoencode.vbs
+'
 Option Explicit 
  
 dim oEncoder, oFilesToEncode, file, sDest 
